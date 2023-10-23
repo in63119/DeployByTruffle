@@ -1,1 +1,1 @@
-# Minting By Truffle 사용방법
+# Deployed By Truffle 사용방법

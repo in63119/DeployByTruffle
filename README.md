@@ -1,1 +1,1 @@
-# Deployed By Truffle 사용방법
+# Deploy By Truffle 사용방법
